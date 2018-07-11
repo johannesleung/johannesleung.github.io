@@ -1,7 +1,7 @@
 <!doctype html>
 <meta charset="utf-8">
 <!--<link rel="stylesheet" href="../static/style.css">-->
-<title>CDs — jleung</title>
+<title>Impressum — jleung</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="../static/tachyons.min.css">
 <body>
@@ -31,8 +31,11 @@
   </header>
   <div class="pa4 ph7-l georgia mw9-l center f5 f4-ns lh-copy measure mb4">
     
-  <h1>CDs</h1>
-  
+  <h1>Impressum</h1>
+  <p>Johannes Leung
+Am Callabrack 7
+21109 Hamburg</p>
+
 
   </div>
   <footer class="bg-white black-80 tc pv4 avenir">
